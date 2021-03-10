@@ -4,7 +4,7 @@
 4. Activate your virtual environment.
 5. Install django while in your venv.
 6. Print 'python3 manage.py test alias' in your teminal to run the tests.
-7. Print 'python manage.py shell' to go to the python shell.
+7. Print 'python3 manage.py shell' to go to the python shell.
 8. When in shell, print 'from alias.models import Alias' to import Alias model.
 9. Print 'from alias.models import get_aliases' to import get_aliases() function
 10. Print 'from alias.models import alias_replace' to import alias_replace function.
