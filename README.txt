@@ -1,3 +1,4 @@
+  Here is standart django app running.
 1. Install python3.x on your OS.
 2. Install pip on your OS.
 3. Go to the root directory of project (one with manage.py file) and create virtual environment there.
