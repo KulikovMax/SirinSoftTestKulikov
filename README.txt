@@ -2,7 +2,7 @@
 2. Install pip on your OS.
 3. Go to the root directory of project (one with manage.py file) and create virtual environment there.
 4. Activate your virtual environment.
-5. Install django while in your venv.
+5. Install django to your venv.
 6. Print 'python3 manage.py test alias' in your teminal to run the tests.
 7. Print 'python3 manage.py shell' to go to the python shell.
 8. When in shell, print 'from alias.models import Alias' to import Alias model.
